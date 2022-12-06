@@ -1,6 +1,6 @@
 # github.com/fsnotify/fsnotify v1.4.9
 github.com/fsnotify/fsnotify
-# github.com/go-sql-driver/mysql v1.6.0
+# github.com/go-sql-driver/mysql v1.7.0
 github.com/go-sql-driver/mysql
 # github.com/google/go-cmp v0.5.8
 github.com/google/go-cmp/cmp
